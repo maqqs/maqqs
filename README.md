@@ -1,16 +1,15 @@
-## Hi there 👋
+# hey, i'm max
 
-<!--
-**maqqs/maqqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i mess around with code sometimes. nothing too serious.
 
-Here are some ideas to get you started:
+- learning things at my own pace
+- interested in video games, music, tech, and random stuff
+- master of procrastination
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🧠 goals
+not sure yet. just doing what i like and building stuff as i go.
+
+---
+
+> “🥀🥀”
