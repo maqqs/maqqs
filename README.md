@@ -12,4 +12,4 @@ not sure yet. just doing what i like and building stuff as i go.
 
 ---
 
-> “🥀🥀”
+> “alive or just breathing?”
